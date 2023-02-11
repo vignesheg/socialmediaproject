@@ -1,0 +1,99 @@
+.top_header{
+    width:100% !important;
+    background-color:#3c40c6;
+    padding: 20px;
+    height: 4.5rem;
+
+}
+
+nav a {
+    text-decoration: none;
+    float: right;
+    position:relative;
+    right: 1px;
+    display: inline-flex;
+    padding-left: 20px;
+    color:#aaa69d;
+    margin-bottom: 20px;
+}
+
+nav span{
+    padding:20px;
+}
+
+.fa, .fa-brands, .fa-classic, .fa-regular, .fa-sharp, .fa-solid, .fab, .far, .fas{
+    color: #ffffff !important;
+}
+
+.login_header {
+	font-family: 'Bellota-BoldItalic', sans-serif;
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #2C6C96;
+	text-shadow: #73B6E2 0.5px 0.5px 0px;
+	font-size: 1rem;
+}
+
+.i:hover{
+    padding-bottom: 7px;
+    border-bottom: 8px solid #ef5777;
+}
+
+body{
+    background-color: #e7e8e9;
+}
+
+
+.bgelement{
+    background-color: #ffffff;
+    width: auto;
+    padding: 10px;
+    margin-right:23px ;
+    margin-top: 29px;
+    border-radius: 8px;
+    position: relative;
+    display: inline-block;
+    margin-left: 16rem;
+     position: relative;
+}
+
+
+.newsfeed{
+    background-color: #ffffff;
+    width: 60rem;
+    position: absolute;
+    display: inline;
+    margin-top: 22px;
+    border-radius: 13px;
+    display: inline;
+    padding: 2rem;
+}
+
+.bgelement div{
+display: inline-block;
+}
+
+.bgelement img{
+    height: 100px;
+    width: 100px;
+    margin-top: -29px;
+}
+
+.usrdetails{
+    padding-left: 15px;
+    margin-top: 10px;
+
+}
+
+.newsfeed button{
+    position: inline;
+    display: absolute;
+    float: right;
+}
+
+.newsfeedel{
+    width: 50rem;
+    padding: 18px;
+    outline: #2C6C96;
+    border-radius: 10px;
+}
